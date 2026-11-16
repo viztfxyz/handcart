@@ -16,7 +16,7 @@
     "model-context-protocol",
     "ai-agent"
   ],
-  "homepage": "https://github.com/viztfxyz/handcart#readme",
+  "homepage": "https://viztf.lol/projects/handcart",
   "bugs": {
     "url": "https://github.com/viztfxyz/handcart/issues"
   },
@@ -25,7 +25,10 @@
     "url": "git+https://github.com/viztfxyz/handcart.git"
   },
   "license": "MIT",
-  "author": "Viz",
+  "author": {
+    "name": "Viz",
+    "url": "https://viztf.lol"
+  },
   "type": "module",
   "engines": {
     "node": ">=22"

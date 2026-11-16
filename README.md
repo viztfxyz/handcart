@@ -242,3 +242,5 @@ Issues and PRs welcome: see [CONTRIBUTING.md](CONTRIBUTING.md). Please follow th
 ## License
 
 [MIT](LICENSE)
+
+Built by [Viz](https://viztf.lol).
